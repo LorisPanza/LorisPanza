@@ -24,21 +24,13 @@ I'm a master computer engineer seeking challenges to improve from a personal and
        alt="snake" /></a>
 </div>
 
-<br/>
-
-<a href="https://github.com/syedammar111">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LorisPanza&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPanza&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=LorisPanza&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=LorisPanza&hide_border=false" width = 500>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=LorisPanza&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=LorisPanza&show_icons=true" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPanza&theme=dark)](https://github.com/LorisPanza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPanza)](https://github.com/LorisPanza/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/LorisPanza)
 
