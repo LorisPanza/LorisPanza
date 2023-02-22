@@ -2,7 +2,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/LorisPanza-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/loris-panza-70512b222/)
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=LorisPanza&style=plastic" />
 
 I'm a master computer engineer seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
