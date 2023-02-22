@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/LorisPanza/">Loris Panza </a> <img  src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/LorisPanza/">Loris Panza </a> <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/LorisPanza-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/loris-panza-70512b222/)
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
