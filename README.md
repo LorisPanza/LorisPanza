@@ -18,7 +18,12 @@ I'm a master computer engineer seeking challenges to improve from a personal and
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=LorisPanza&theme=react-dark)
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/LorisPanza/LorisPanza/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=LorisPanza&theme=dark&hide_border=false" width = 500>
 
