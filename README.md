@@ -31,7 +31,7 @@ I'm a master computer engineer seeking challenges to improve from a personal and
 ## Watch my contribution graph being eaten by a snake🐍
 
 <p align="center">
-  <img src="https://github.com/LorisPanza/LorisPanza/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/LorisPanza/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/LorisPanza)
