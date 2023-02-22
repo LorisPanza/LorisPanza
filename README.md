@@ -16,13 +16,9 @@ I'm a master computer engineer seeking challenges to improve from a personal and
 <p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
 
 <br>
-<br>
 
-<div align="center">
-  <a href="https://LorisPanza.github.io/LorisPanza/">
-  <img  src="https://github.com/LorisPanza/LorisPanza/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
+
 
 
 
