@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/LorisPanza/">Loris Panza </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/loris-panza-70512b222/)
+[![linkedin badge](https://img.shields.io/badge/LorisPanza-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/loris-panza-70512b222/)
 [![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
