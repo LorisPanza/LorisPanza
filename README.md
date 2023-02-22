@@ -28,6 +28,12 @@ I'm a master computer engineer seeking challenges to improve from a personal and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPanza)](https://github.com/LorisPanza/github-readme-stats)
 
+## Watch my contribution graph being eaten by a snake🐍
+
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/LorisPanza)
 
 ---
