@@ -19,7 +19,7 @@ I'm a master computer engineer seeking challenges to improve from a personal and
 <br>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://LorisPanza.github.io/LorisPanza/">
   <img  src="https://github.com/LorisPanza/LorisPanza/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
