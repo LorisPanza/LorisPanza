@@ -22,9 +22,9 @@ I'm a master computer engineer at Politecnico di Milano seeking challenges to im
 
 
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=LorisPanza&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=LorisPanza&hide_border=false&theme=tokyonight" width = 500>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=LorisPanza&show_icons=true" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=LorisPanza&show_icons=true&theme=tokyonight" width = 500>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPanza)](https://github.com/LorisPanza/github-readme-stats)
 
