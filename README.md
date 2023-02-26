@@ -29,6 +29,6 @@ I'm a master computer engineer at Politecnico di Milano seeking challenges to im
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPanza)](https://github.com/LorisPanza/github-readme-stats)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/LorisPanza)
+[//]: # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/LorisPanza)
 
 ---
