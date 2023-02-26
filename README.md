@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=LorisPanza&style=plastic" />
 
-I'm a master computer engineer seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
+I'm a master computer engineer at Politecnico di Milano seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
 
 - 🌱 I’m currently focusing on **Machine Learning** and **Data Mining**.
