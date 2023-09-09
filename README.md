@@ -7,10 +7,13 @@
 I have a master’s degree in Computer Engineer at Politecnico di Milano. My studies have been focused on Machine Learning. I'm seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. <br>
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
 
-🎓 **Education**
+🎓 **Education:**
 - Master of Science in Computer Science and Engineering at Politecnico di Milano
 - Bachelor of Scinece in Computer Engineering at Università degli studi di Salerno
 
+📌 **Projects:**
+
+👦 **About me:**
 - 🌱 I’m currently focusing on **Machine Learning** and **Data Mining**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
