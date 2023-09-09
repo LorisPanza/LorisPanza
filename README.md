@@ -4,8 +4,12 @@
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=LorisPanza&style=plastic" />
 
-I have a master’s degree in Computer Engineer at Politecnico di Milano. My studies have been focused on Machine Learning. I'm seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. I love exploring new technologies and am currently learning new skills. <br>
+I have a master’s degree in Computer Engineer at Politecnico di Milano. My studies have been focused on Machine Learning. I'm seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. <br>
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
+
+🎓 **Education**
+- Master of Science in Computer Science and Engineering at Politecnico di Milano
+- Bachelor of Scinece in Computer Engineering at Università degli studi di Salerno
 
 - 🌱 I’m currently focusing on **Machine Learning** and **Data Mining**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
