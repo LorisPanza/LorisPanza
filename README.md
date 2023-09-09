@@ -29,13 +29,6 @@ I have a master’s degree in Computer Engineer at Politecnico di Milano. My stu
 
 
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=LorisPanza&hide_border=false&theme=tokyonight" width = 500>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=LorisPanza&show_icons=true&theme=tokyonight" width = 500>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPanza&theme=tokyonight)](https://github.com/LorisPanza/github-readme-stats)
-
-
-<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/LorisPanza) -->
 
 ---
