@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=LorisPanza&style=plastic" />
 
-I have a master’s degree in **Computer Engineer** at _Politecnico di Milano_. My studies have been focused on **Machine Learning**. I'm seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. <br>
+I have a master’s degree in **Computer Engineering** at _Politecnico di Milano_. My studies have been focused on **Machine Learning**. I'm seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. <br>
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
 
 🎓 **Education:**
@@ -12,11 +12,12 @@ I have a master’s degree in **Computer Engineer** at _Politecnico di Milano_. 
 - Bachelor of Science in Computer Engineering at _Università degli studi di Salerno_
 
 📌 **Projects:**
-[Developed Videogame - "Change you path"](https://github.com/LorisPanza/Change-Your-Path)
-[Online Learning Application](https://github.com/citteriomatteo/onlinelearningapplications-2022)
-[Requirements Analysis and Specification Document and Design Document](https://github.com/LorisPanza/RASD-DDDocument)
-[second one](0603Percento.ipynb)
-[second one](0603Percento.ipynb)
+- [Developed Videogame - "Change you path"](https://github.com/LorisPanza/Change-Your-Path)
+- [Online Learning Application](https://github.com/citteriomatteo/onlinelearningapplications-2022)
+- [Requirements Analysis and Specification Document and Design Document](https://github.com/LorisPanza/RASD-DDDocument)
+- [Robotics and Design](https://github.com/LorisPanza/RoboticsAndDesign)
+- [Artificial Neural Networks and Deep Learning - Leaves Classifications](https://github.com/LorisPanza/ANNDL-Leaf-Classification)
+- [Artificial Neural Networks and Deep Learning - Time Series Forecasting](https://github.com/LorisPanza/ANNDL-TimeSeriesForecasting)
 
 
 👦 **About me:**
