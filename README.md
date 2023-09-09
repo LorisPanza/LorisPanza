@@ -9,7 +9,7 @@ I have a master’s degree in **Computer Engineer** at _Politecnico di Milano_. 
 
 🎓 **Education:**
 - Master of Science in Computer Science and Engineering at _Politecnico di Milano_
-- Bachelor of Scinece in Computer Engineering at Università degli studi di _Salerno_
+- Bachelor of Scinece in Computer Engineering at _Università degli studi di Salerno_
 
 📌 **Projects:**
 
