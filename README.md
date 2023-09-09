@@ -9,9 +9,15 @@ I have a master’s degree in **Computer Engineer** at _Politecnico di Milano_. 
 
 🎓 **Education:**
 - Master of Science in Computer Science and Engineering at _Politecnico di Milano_
-- Bachelor of Scinece in Computer Engineering at _Università degli studi di Salerno_
+- Bachelor of Science in Computer Engineering at _Università degli studi di Salerno_
 
 📌 **Projects:**
+[Developed Videogame - "Change you path"](https://github.com/LorisPanza/Change-Your-Path)
+[Online Learning Application](https://github.com/citteriomatteo/onlinelearningapplications-2022)
+[Requirements Analysis and Specification Document and Design Document](https://github.com/LorisPanza/RASD-DDDocument)
+[second one](0603Percento.ipynb)
+[second one](0603Percento.ipynb)
+
 
 👦 **About me:**
 - 🌱 I’m currently focusing on **Machine Learning** and **Data Mining**.
