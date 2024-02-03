@@ -8,7 +8,7 @@
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
 
 **Work experience**:
-- AI Research Fellow at _Leonardo S.p.A_
+- AI Research Fellow at _Leonardo S.p.A._
 
 🎓 **Education:**
 - Master of Science in Computer Science and Engineering at _Politecnico di Milano_
