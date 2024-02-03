@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=LorisPanza&style=plastic" />
 
-Passionate about Deep Learning, currently seeking for challenges and innovative solutions. <br>
+“In God we trust, all others bring data.”. <br>
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
 
 **Work experience**:
@@ -24,7 +24,7 @@ Passionate about Deep Learning, currently seeking for challenges and innovative 
 
 
 👦 **About me:**
-- 🌱 I’m currently focusing on **Machine Learning** and **Data Mining**.
+- 🌱 I’m currently focusing on **Deep Learning** applied on **Computer Vision** tasks.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
 <br>
