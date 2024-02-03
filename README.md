@@ -4,9 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=LorisPanza&style=plastic" />
 
-I work as AI Research Fellow at Leonardo S.p.A, global industrial group that builds technological capabilities in Aerospace, Defence & Security.
-My educational background consists in a master’s degree in **Computer Sceince and Engineering** at _Politecnico di Milano_. My studies have been focused on **Machine Learning**. I'm seeking challenges to improve from a personal and professional point of view. I am creatively curious and a self learner. <br>
+Passionate about Deep Learning, currently seeking for challenges and innovative solutions. <br>
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
+
+**Work experience**:
+- AI Research Fellow at _Leonardo S.p.A_
 
 🎓 **Education:**
 - Master of Science in Computer Science and Engineering at _Politecnico di Milano_
