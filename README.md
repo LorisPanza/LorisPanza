@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/lorispanza@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lorispanza@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=LorisPanza&style=plastic" />
 
-“In God we trust, all others bring data.”. <br>
+“In God we trust, all others bring data.” <br>
 <img align='right' src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" height="210">
 
 **Work experience**:
