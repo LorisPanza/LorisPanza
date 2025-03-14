@@ -14,14 +14,6 @@
 - Master of Science in Computer Science and Engineering at _Politecnico di Milano_
 - Bachelor of Science in Computer Engineering at _Università degli studi di Salerno_
 
-📌 **Projects:**
-- [Developed Videogame - "Change you path"](https://github.com/LorisPanza/Change-Your-Path)
-- [Online Learning Application](https://github.com/citteriomatteo/onlinelearningapplications-2022)
-- [Requirements Analysis and Specification Document and Design Document](https://github.com/LorisPanza/RASD-DDDocument)
-- [Robotics and Design](https://github.com/LorisPanza/RoboticsAndDesign)
-- [Artificial Neural Networks and Deep Learning - Leaves Classifications](https://github.com/LorisPanza/ANNDL-Leaf-Classification)
-- [Artificial Neural Networks and Deep Learning - Time Series Forecasting](https://github.com/LorisPanza/ANNDL-TimeSeriesForecasting)
-
 
 👦 **About me:**
 - 🌱 I’m currently focusing on **Deep Learning** applied on **Computer Vision** tasks.
